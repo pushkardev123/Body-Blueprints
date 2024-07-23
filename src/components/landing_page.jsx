@@ -841,10 +841,11 @@ const Home = () => {
             {isFirstRender && <div className="flex flex-col text-white items-center justify-center w-full h-full text-center">
                 Click on a muscle group to proceed!
             </div>}
+            <br />
 
             {clickedId && (
                 <div ref={exerciseRef}>
-                    <Exercises muscleId={clickedId} />
+                    <Exercises muscleID={clickedId} />
                 </div>
             )}
         </>

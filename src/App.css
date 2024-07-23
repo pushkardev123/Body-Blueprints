@@ -6,3 +6,6 @@ body {
 
 
 /* Hide scrollbars while keeping scroll functionality for all browsers */
+body,html{
+    overflow-x: hidden;
+}

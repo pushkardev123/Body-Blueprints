@@ -1,0 +1,15 @@
+{
+    "chest":["video.mp4"],
+    "back":["video.mp4"],
+    "shoulder":["video.mp4"],
+    "bicep":["video.mp4"],
+    "tricep":["video.mp4"],
+    "forearm":["video.mp4"],
+    "abs":["video.mp4"],
+    "quadricep":["video.mp4"],
+    "hamstring":["video.mp4"],
+    "calf":["video.mp4"],
+    "glute":["video.mp4"],
+    "cardio":["video.mp4"],
+    "video.mp4":["Pushup","1. Place hands on the floor, shoulder-width apart, body straight, and balanced on toes.\n2. Bend elbows, lowering chest towards the floor while keeping body straight.\n3. Push through palms to return to the starting position, maintaining a straight body line."]
+}
