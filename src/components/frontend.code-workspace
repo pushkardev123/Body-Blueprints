@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Body-Blueprints",
+			"path": "../../Body-Blueprints"
+		}
+	],
+	"settings": {}
+}

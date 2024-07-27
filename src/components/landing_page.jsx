@@ -27,7 +27,7 @@ const Home = () => {
         if (!isFirstRender && exerciseRef.current) {
             exerciseRef.current.scrollIntoView({ behavior: 'smooth' });
         }
-    }, [clickedId, isFirstRender]);
+    });
 
     return (
         <>
